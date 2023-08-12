@@ -10,7 +10,7 @@ Dataset KPMG.xlsx includes one table containing transaction information of custo
 
 <p align="center">
   <img src="KPMG table.png" width=800><br/>
-  <i>English</i>
+  <i>Table_Information</i>
 </p>
 
 
@@ -35,6 +35,13 @@ Cohort type of this project
 
 # **Data Visualization**
 
+<p align="center">
+  <img src="Transaction.png" width=800><br/>
+</p>
+
+<p align="center">
+  <img src="Number of customers.png" width=800><br/>
+</p>
 
 # ****Insights****
 
