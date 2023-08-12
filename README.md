@@ -8,7 +8,10 @@ Using Python to analyze transaction data from KPMG to evaluate user engagement f
 
 Dataset KPMG.xlsx includes one table containing transaction information of customers purchasing products in the year 2017
 
-[!Table]((https://github.com/yukitran2181/cohort_analysis/blob/968b0f968f47d6cd8b3a11893a58f14a2b9cf9a7/KPMG%20table.png)) Table]
+<p align="center">
+  <img src="KPMG table.png" width=800><br/>
+  <i>English</i>
+</p>
 
 
 **1.3. Method: Cohort analysis**
